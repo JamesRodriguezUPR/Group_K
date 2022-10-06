@@ -18,4 +18,6 @@ Presented our individual A3 ideas.
 ### Sept 3
 10:30am on element
 Evaluated the A3, gave feedback
-
+### Oct 6 2022
+- Created proposal format 
+- Made proposal
