@@ -1,0 +1,42 @@
+
+<nav><h1>Holy Moly it's a Food tracker!"</h1></nav>
+
+
+
+
+<div id="main">
+
+<div id="side">
+<h2> New User:</h2>
+<p> Sign Up </p>
+<form>
+<input type="text" required>
+<br>
+<input type="text" required>
+<br>
+<button type="submit"> Sign up!</button>
+
+
+</form>
+
+
+</div>
+
+
+
+<div id="main-main">
+<h2> I AM THE MAIN BODY</h2>
+<form>
+<input type="text" required>
+<br>
+<input type="text" required>
+<br>
+<input type="submit">
+
+
+</form>
+
+
+</div>
+
+</div>
