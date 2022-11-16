@@ -1,0 +1,9 @@
+body{
+    background-color: #F1C15F;
+    height:auto;
+    width: auto;
+}
+:host {
+    width: 100%;
+    height: 100%;
+}
