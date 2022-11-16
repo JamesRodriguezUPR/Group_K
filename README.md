@@ -1,6 +1,3 @@
 # Group_K
 
-cd FoodTracker
-npm install
-npm start
-ng serve
+cd FoodTracker folder then run npm install, npm start, ng serve
