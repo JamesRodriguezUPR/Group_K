@@ -3,13 +3,20 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+<<<<<<< HEAD
 import { HomeComponent } from './home/home.component';
+=======
 import { AddFoodComponent } from './add-food/add-food.component';
+>>>>>>> add-food
 
 @NgModule({
   declarations: [
     AppComponent,
+<<<<<<< HEAD
     HomeComponent
+=======
+    AddFoodComponent
+>>>>>>> add-food
   ],
   imports: [
     BrowserModule,
