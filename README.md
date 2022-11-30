@@ -7,6 +7,7 @@ Gabriel Luque\
 Joy Martínez Guadalupe\
 James Rodríguez Feliciano
 
+Install nodeJs and AngularJs beforehand:\
 cd FoodTracker\
 npm install\
 npm start\
