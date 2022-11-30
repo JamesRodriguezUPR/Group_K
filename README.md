@@ -5,9 +5,9 @@ Jomar Alayón Freytes\
 Zaneisha Estrella Ballester\
 Gabriel Luque\
 Joy Martínez Guadalupe\
-James Rodríguez Feliciano
+James Rodríguez Feliciano\
 
-cd FoodTracker folder\ 
+cd FoodTracker\ 
 run npm install\
 npm start\
 ng serve\
