@@ -8,7 +8,7 @@ Joy Martínez Guadalupe\
 James Rodríguez Feliciano\
 
 cd FoodTracker\ 
-run npm install\
+npm install\
 npm start\
 ng serve\
 import psycopg2
